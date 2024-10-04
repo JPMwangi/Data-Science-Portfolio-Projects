@@ -1,5 +1,4 @@
 # Data-Science-Portfolio-Projects
-## **GitHub Introduction**
 
 **Welcome to my GitHub repository!** This space showcases my data science projects and notes, developed as part of the Google Advanced Data Analytics coursework. 
 
